@@ -1,0 +1,1 @@
+const application = new Application('game');
